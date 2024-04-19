@@ -1,4 +1,4 @@
-论文地址：[https://arxiv.org/abs/1806.08342](https://arxiv.org/abs/1806.08342)
+论文地址：[https://doi.org/10.48550/arXiv.1806.08342](https://doi.org/10.48550/arXiv.1806.08342)
 ### 摘要
 ### 介绍
 ### Quantizer Design
