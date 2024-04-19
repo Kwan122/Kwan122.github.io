@@ -5,7 +5,7 @@
 ### Quantizer Design
 #### Uniform Affine Quantizer (均匀映射量化)  
 
-<img src="./paper/google_whiterpaper/1.png">  
+<img src="./paper/google_whitepaper/1.png">  
 
 #### Uniform symmetric quantizer (均匀对策量化)
 #### Stochastic quantizer（随机量化）
