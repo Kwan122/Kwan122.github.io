@@ -1,8 +1,6 @@
 <p align="center"><img align="center" alt="加藤惠" src ="./top.jpg"></p>
 
-[![Kwan122's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kwan122)](https://github.com/anuraghazra/github-readme-stats)
-
-`#ff00bb ~~ Hello 我是Kwan122，这是我用来记录与分享学习的博客 ~~`
+<p align="center" style="color:#ff00bb"> ~~ Hello 我是Kwan122，这是我用来记录与分享学习的博客 ~~</p>
 
 ### 论文研读
 **NPU**
