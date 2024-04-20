@@ -1,6 +1,8 @@
 <img src ="./top.jpg">
 
-<center><font color=#ff00bb> ~~ Hello 我是Kwan，这是我用来记录与分享学习的博客 ~~ </font></center>   
+`#ff00bb ~~ Hello 我是Kwan，这是我用来记录与分享学习的博客 ~~`
+
+[![Kwan122's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kwan122)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 论文研读
 **NPU**
