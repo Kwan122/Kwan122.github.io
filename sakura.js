@@ -138,7 +138,3 @@ window.onresize = function () {
 img.onload = function () {
     startSakura();
 }
-
-```樱花背景```
-<script type="text/javascript" src="./sakura.js"></script>
-
