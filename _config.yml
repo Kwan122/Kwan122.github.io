@@ -4,5 +4,12 @@
 
 name: "Kwan122's blog"
 desciption: "~~ learn and share knowledges ~~"
+
+navigation:
+  - name: 首页
+    url: ./README.md
+
 footer-links:
   github: Kwan122
+
+footer-text: Copyright (c) 2023 Kwan122
