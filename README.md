@@ -1,6 +1,6 @@
 <img src ="./top.jpg">
 
-`rgb(255,0,187) ~~ Hello 我是Kwan，这是我用来记录与分享学习的博客 ~~`  
+<center><font color=#ff00bb> ~~ Hello 我是Kwan，这是我用来记录与分享学习的博客 ~~ </font></center>   
 
 ### 论文研读
 **NPU**
