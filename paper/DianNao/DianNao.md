@@ -8,26 +8,26 @@
 
 ### 1 介绍
 
-<img src="./fig1.png" width="50%" height="50%">
+<img src="./fig1.png" width="50%" height="50%"></p>
 
 ### 3 基于处理器实现的大型神经网络
 
-<img src="./fig2.png" >
+<p align="center"><img src="./fig2.png"></p>
 
 #### 3.1 Classifier Layers（分类层）
 
-<img src="./fig3.png" width="50%" height="50%">
+<p align="center"><img src="./fig3.png" width="50%" height="50%"></p>
 
 #### 3.2 Convolutional Layers（卷积层）
 
-<img src="./fig5.png" width="50%" height="50%">
+<p align="center"><img src="./fig5.png" width="50%" height="50%"></p>
 
 #### 3.3 Pooling Layers（池化层）
 
-<img src="./fig6.png" width="50%" height="50%">
+<p align="center"><img src="./fig6.png" width="50%" height="50%"></p>
 
 ### 4 小型神经网络加速器
 
-<img src="./fig9.png" width="50%" height="50%">
+<p align="center"><img src="./fig9.png" width="50%" height="50%"></p>
 
 [返回主页](../../README.md)
