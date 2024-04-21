@@ -2,7 +2,7 @@
 
 ## DianNao A Small-Footprint High-Throughput Accelerator for Ubiquitous Machine-Learning
 
-论文地址:[(https://ieeexplore.ieee.org/document/7011421)](https://ieeexplore.ieee.org/document/7011421)  
+论文地址:[(https://dl.acm.org/doi/abs/10.1145/2654822.2541967)](https://dl.acm.org/doi/abs/10.1145/2654822.2541967)  
 
 ### 摘要
 
