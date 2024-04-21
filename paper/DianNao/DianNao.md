@@ -31,3 +31,7 @@
 <p align="center"><img src="./fig9.png" width="50%" height="50%"></p>
 
 [返回主页](../../README.md)
+
+<script type="text/javascript">
+  document.body.style.backgroundColor='#fdefe6';
+</script>
