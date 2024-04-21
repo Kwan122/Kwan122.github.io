@@ -8,7 +8,7 @@
 
 ### 1 介绍
 
-<img src="./fig1.png" width="50%" height="50%"></p>
+<p align="center"><img src="./fig1.png" width="50%" height="50%"></p>
 
 ### 3 基于处理器实现的大型神经网络
 
