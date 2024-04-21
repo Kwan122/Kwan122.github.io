@@ -2,6 +2,10 @@
 
 <p align="center" style="color:#ff00bb"> ~~ Hello 我是Kwan122，这是我用来记录与分享学习的博客 ~~</p>
 
+### IC设计
+
+1 亚稳态(./IC design/亚稳态.md)  
+
 ### 论文研读
 
 **NPU**
@@ -15,3 +19,4 @@
 
 
 <script type="text/javascript" src="./sakura.js"></script>
+
