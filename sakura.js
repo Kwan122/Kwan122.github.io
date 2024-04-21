@@ -137,4 +137,5 @@ window.onresize = function () {
 }
 img.onload = function () {
     startSakura();
+    document.body.style.backgroundColor='#f5e9e2';
 }
