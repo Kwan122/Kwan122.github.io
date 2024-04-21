@@ -2,6 +2,8 @@
 
 <p align="center" style="color:#ff00bb"> ~~ Hello 我是Kwan122，这是我用来记录与分享学习的博客 ~~</p>
 
+[博客跳转](https://kwan122.github.io/)  
+
 ### IC
 
 **数字设计**
