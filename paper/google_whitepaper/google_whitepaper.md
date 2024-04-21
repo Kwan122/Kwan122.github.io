@@ -23,7 +23,7 @@
 
 <p align="center"><img src="./eq3.png" width="50%" height="50%"></p>
 
-#### 2.2 Uniform symmetric quantizer (均匀对策量化)
+#### 2.2 Uniform symmetric quantizer (均匀对称量化)
 
 <p align="center"><img src="./eq4.png" width="50%" height="50%"></p>
 
