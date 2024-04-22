@@ -4,13 +4,23 @@
 
 [博客跳转](https://kwan122.github.io/)  
 
-### IC
+### ic
 
 **数字设计**
 
 1 [亚稳态及相关知识](./ic/亚稳态及相关知识/亚稳态及相关知识.md)
 
 2 [静态时序分析](./ic/静态时序分析/静态时序分析.md)
+
+**数字验证**
+
+1 [UVM](./ic/UVM/UVM.md)
+
+### sw
+
+**操作系统**
+
+1 [FreeRTOS](./sw/FreeRTOS/FreeRTOS.md)
 
 ### 论文研读
 
